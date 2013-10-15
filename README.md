@@ -10,3 +10,4 @@ commit 2 to branch_1
 github edit commit 1
 rebase commit 1
 commit 5
+commit 6
